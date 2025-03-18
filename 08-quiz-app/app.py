@@ -1,0 +1,5 @@
+my_tuple = ("a","b","c")
+my_list = list(my_tuple)
+my_list.append("d")
+my_tuple= tuple(my_list)
+print(my_tuple)
