@@ -1,0 +1,44 @@
+[
+    {
+        "title": "jokes",
+        "author": "imran",
+        "year": "2025",
+        "genre": "funny",
+        "read": true
+    },
+    {
+        "title": "my story",
+        "author": "nazia",
+        "year": "2025",
+        "genre": "story",
+        "read": true
+    },
+    {
+        "title": "my story",
+        "author": "nazia",
+        "year": "2025",
+        "genre": "story",
+        "read": true
+    },
+    {
+        "title": "kid",
+        "author": "fatima",
+        "year": "2025",
+        "genre": "learning",
+        "read": false
+    },
+    {
+        "title": "travel",
+        "author": "amna",
+        "year": "2025",
+        "genre": "traveling ",
+        "read": true
+    },
+    {
+        "title": "travel",
+        "author": "Ali",
+        "year": "2024",
+        "genre": "travling ",
+        "read": true
+    }
+]
